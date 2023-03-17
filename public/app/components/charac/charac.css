@@ -1,0 +1,14 @@
+.all
+{
+    justify-content: center;
+    margin-top: 80px;
+    border: gray 1px solid;
+    margin-left: 20px;
+    border-radius: 13px;
+}
+p{
+    font-size:22px;
+    font-weight: bold;
+    color: rgb(77, 74, 74);
+    
+}

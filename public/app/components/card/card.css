@@ -1,0 +1,12 @@
+.in1{
+    margin-top: 40px;
+    border: rgb(204, 203, 203) 1px solid;
+    border-radius: 8px;
+    min-height: 300px;
+    margin-left: 40px;
+}
+p{
+    font-size:18px;
+    font-weight: bold;
+    color: rgb(77, 74, 74);
+}

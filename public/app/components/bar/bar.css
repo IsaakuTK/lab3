@@ -1,0 +1,94 @@
+.nagvar1
+{
+    margin-left: -10px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: aliceblue;
+    
+}
+.logo
+{
+    width: 100px;
+    height: 50px;
+}
+.first
+{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.nagvar1 button
+{
+    border-color: transparent;
+    background-color: transparent;
+}
+.nagvar1 p{
+    margin-left: -240px;
+    font-size:medium;
+}
+.busq
+{
+    
+    margin-left: -240px;
+   
+}
+.busq input 
+{
+    font-size:small;
+    width: 250px;
+    border: none;
+}
+.elpp
+{
+    display: flex;
+    margin-left: 80px;
+}
+
+.nagvar2
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+.nagvar2 button img
+{
+    width: 20px;
+    height: 20px;
+}
+
+.nagvar2 button
+{
+    border-color: transparent;
+    background-color: transparent;
+}
+.nagvar1{
+    border: gray 1px solid;
+    border-right: none;
+
+}
+
+.nav{
+    border: gray 1px solid;
+    border-right: none;
+    border-left: none;
+
+    
+}
+
+.all{
+    top: 0;
+    width: 100%;
+    position: fixed;
+    background-color: aliceblue;
+    z-index: 1;
+}
