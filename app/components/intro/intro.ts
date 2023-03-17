@@ -15,7 +15,9 @@ class Intro extends HTMLElement{
         {
             this.shadowRoot.innerHTML= `
             <link rel="stylesheet" href="./app/components/intro/intro.css">
+            <img class="imgg" src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80">
             <section class="int3">
+            
                 <section class="int2">
                     <img src="https://assets.nintendo.com/image/upload/f_auto/q_auto/c_fill,w_1500/ncom/en_US/merchandising/center-stage-banner/bayonetta-origins/3600x1300_BayoOrigins_centerstage_desktop">
                     <section class="int1">

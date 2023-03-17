@@ -44,21 +44,21 @@ p{
   font-weight: bold;
   color: rgb(77, 74, 74);
   margin-top: 100px;
-  margin-left: 350px;
+  margin-left: 500px;
 }
 
 .siu{
   display: flex;
   flex-direction: row;
   overflow-x: scroll;
-  margin-left: 400px;
+  margin-left: 550px;
   margin-right: 400px;
 }
 .newss1
 {
   display: flex;
   flex-direction: row;
-  margin-left: 350px;
+  margin-left: 500px;
   margin-right: 400px;
 }
 
@@ -66,22 +66,22 @@ p{
 {
   display: flex;
   flex-direction: row;
-  margin-left: 350px;
+  margin-left: 500px;
   margin-right: 400px;
 }
 .biut
 {
-  margin-left: 350px;
+  margin-left: 500px;
 }
 .charac{
   display: flex;
   flex-direction: row;
-  margin-left: 350px;
+  margin-left: 500px;
 }
 .sellers{
   display: flex;
   flex-direction: row;
   overflow-x: scroll;
-  margin-left: 400px;
+  margin-left: 600px;
   margin-right: 400px;
 }

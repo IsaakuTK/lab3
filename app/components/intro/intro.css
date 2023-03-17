@@ -12,6 +12,7 @@ p
     margin-top: 20px;
     /* box-sizing: content-box;
     width: 100%; */
+    
 }
 .int2
 {
@@ -19,13 +20,19 @@ p
     flex-direction: column;
     margin-top: 20px;
     background-color: #ffffff;
+    justify-content: center;
+    width: 80%;
+    height: 80%;
+    margin-right: 50%;
 }
 .int3
 {
     display: flex;
-    margin-top: 20px;
+    margin-top: -600px;
+    margin-left: 600px;
     justify-content: center;
-    background-image: url("https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    position: absolute;
+    
 }
 .img
 {
@@ -79,4 +86,15 @@ button {
   
   button:hover::after {
     left: 100%;
+  }
+
+  .imgg
+  {
+      margin-left: -100px;
+      height: 500px;
+      position: relative;
+      justify-content: center;
+      width: 3000px;
+      margin-bottom: 200px;
+      
   }

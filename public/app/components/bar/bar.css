@@ -70,10 +70,12 @@
 {
     border-color: transparent;
     background-color: transparent;
+    
 }
 .nagvar1{
     border: gray 1px solid;
     border-right: none;
+    
 
 }
 
@@ -81,8 +83,8 @@
     border: gray 1px solid;
     border-right: none;
     border-left: none;
-
-    
+    margin-left: -10px;
+    background-color: aliceblue;
 }
 
 .all{
