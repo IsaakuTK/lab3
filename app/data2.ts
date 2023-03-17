@@ -1,4 +1,9 @@
-const data =[
+interface Data {
+    image:string;
+
+    text:string;
+}
+const data: Data[] =[
     {
         image: "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/en_US/merchandising/feature-banner/Current%20Events/Nintendo%20Direct/2023/03.09.2023/MD_red_promoAsset_v2356x200_Ncom_featureBanner_v2",
         text: "Check out the presentation!"

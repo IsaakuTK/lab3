@@ -1,4 +1,10 @@
-const data =[
+interface Data {
+    image:string;
+
+    tittle:string;
+ 
+}
+const data: Data[] =[
     {
         image:"https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.0/c_scale,w_300/ncom/en_US/merchandising/Character%20Portals/1600x1600_NCOM_Home_Characters_Mario",
         tittle: "Super Mario™️",

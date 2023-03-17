@@ -1,4 +1,10 @@
-const data =[
+interface Data {
+    image:string;
+    date:string;
+    tittle:string;
+    text:string;
+}
+const data: Data[] =[
     {
         image:"https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_600/ncom/en_US/events/articles/2023/pax-east-2023/nintendovs-arcade-pax-east-2023-xl",
         date: "03/16/23",
